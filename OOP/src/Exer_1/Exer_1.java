@@ -15,7 +15,7 @@ public class Exer_1 {
 		}
 		return A;
 	}
-	
+	//test
 	public static void main(String[] argv){
 		System.out.println("A = " + Nhap());
 		
